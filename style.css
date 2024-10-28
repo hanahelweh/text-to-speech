@@ -23,7 +23,7 @@ body{
     width: 100vw;
 }
 .gif{
-    background: url('/text-to-speech/giphy.gif');
+    background: url('/giphy.gif');
     aspect-ratio: 1/0.9;
     background-size: cover;
     background-repeat: no-repeat;
